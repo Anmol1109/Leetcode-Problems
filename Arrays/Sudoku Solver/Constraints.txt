@@ -1,0 +1,6 @@
+Constraints:
+
+board.length == 9
+board[i].length == 9
+board[i][j] is a digit or '.'.
+It is guaranteed that the input board has only one solution.
