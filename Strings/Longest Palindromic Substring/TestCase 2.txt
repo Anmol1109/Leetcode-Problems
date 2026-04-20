@@ -1,0 +1,4 @@
+Example 2:
+
+Input: s = "cbbd"
+Output: "bb"
