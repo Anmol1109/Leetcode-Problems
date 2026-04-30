@@ -1,0 +1,4 @@
+Example 2:
+
+Input: matrix = [["0"]]
+Output: 0
