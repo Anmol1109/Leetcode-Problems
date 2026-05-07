@@ -1,0 +1,4 @@
+Example 2:
+
+Input: rowIndex = 0
+Output: [1]
