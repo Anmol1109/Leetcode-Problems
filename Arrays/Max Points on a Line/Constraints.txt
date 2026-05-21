@@ -1,0 +1,6 @@
+Constraints:
+
+1 <= points.length <= 300
+points[i].length == 2
+-10^4 <= xi, yi <= 10^4
+All the points are unique.
